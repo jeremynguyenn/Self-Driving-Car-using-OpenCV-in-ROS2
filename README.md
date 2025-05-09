@@ -1,4 +1,4 @@
-# ROS2 Prius Self Driving Car  using AI/Deeplearning and Computer Vision
+# ROS2 Self Driving Car  using AI/Deeplearning and Computer Vision
 
 ## Version Requirments
 ----
