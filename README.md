@@ -94,4 +94,4 @@ Sign Classification using (custom-built) CNN
   -  ![alt text](https://github.com/jeremynguyenn/Self-Driving-Car-using-OpenCV-in-ROS2/blob/main/Self-Driving-Car-AI/Images_videos/Sat_Nav/4_motionplanning.gif)
 ----
 ## Video DEMO
-- ![videodemo](https://github.com/jeremynguyenn/Self-Driving-Car-using-OpenCV-in-ROS2/blob/main/Self-Driving-Car-AI/Images_videos/videdemo.mp4)
+- ![videodemo](https://github.com/jeremynguyenn/Self-Driving-Car-using-OpenCV-in-ROS2/blob/main/Self-Driving-Car-AI/Images_videos/videdemo.gif)
