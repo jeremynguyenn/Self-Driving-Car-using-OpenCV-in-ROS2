@@ -38,10 +38,7 @@ colcon build
 ```
 source /path/to/Self-Driving-Car-using-OpenCV-in-ROS2/setup.bash
 ```
-* (Optional for Power USERs ) Add source to this workspace into bash file
- ```
-  echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
- ```
+
   **NOTE:** This upper command is going to add the source file path into your ~/.bashrc file ( Only perform it once and you know what you are doing).This will save your time when running things from the Workspace
 ----
 ## System Workflow
